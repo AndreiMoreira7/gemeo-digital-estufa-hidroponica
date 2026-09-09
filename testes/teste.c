@@ -1,3 +1,6 @@
+// Enviando dados do sensor de temperatura para o things board a fins de teste;
+// Usando arduino uno e ethernet shield.
+
 #include <SPI.h>
 #include <Ethernet.h>
 #include <PubSubClient.h>
